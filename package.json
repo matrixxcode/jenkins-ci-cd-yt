@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matrixxcode/jenkins-ci-cd-yt/issues"
   },
-  "homepage": "https://github.com/matrixxcode/jenkins-ci-cd-yt#readme"
+  "homepage": "https://github.com/matrixxcode/jenkins-ci-cd-yt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
